@@ -11,8 +11,17 @@ Built on the open **Beckn-ONIX** protocol and powered by Google Cloud’s **Agen
 By coordinating AI agents across devices, GridSense enhances grid stability, unlocks revenue streams for participants, and accelerates decarbonization.
 
 ## 🧭 GridSense Architecture
+At a high level, we have:
 
-![GridSense Architecture](assets/assets.png)
+1. **Device Layer:** Agentic software wrappers on each flexible appliance (HVAC, EV charger, water heater)
+
+2. **Household Agent Layer:** A centralized, user‑personalized “home agent” that aggregates device agents, provides user recommendations, and manages consented control flows
+
+3. **GridSense Marketplace Layer:** A Beckn-based network proxy that broadcasts grid signals, runs the demand‑response marketplace, and settles micropayments
+
+4. **Grid/Utility Layer:** Transmission/distribution system operators (TSOs/DSOs) and utilities issuing real‑time grid stress or pricing events
+
+![GridSense Architecture](assets/architecture.png)
 ---
 
 ## 🔧 Challenges Addressed
