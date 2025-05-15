@@ -1,7 +1,7 @@
 
 // API key for Gemini API
 // This is a publishable key meant to be used in client-side code
-export const GEMINI_API_KEY = "AIzaSyD8bwyn4220ZKL9biFi3_46tRlgKrZETbg";
+export const GEMINI_API_KEY = os.getenv(GEMINI_API_KEY)
 
 export interface GeminiMessage {
   role: "user" | "model"; // Strict typing here
