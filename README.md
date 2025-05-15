@@ -9,7 +9,7 @@
 The consumer/prosumer needs to reduce their energy costs and contribute to grid stability, without compromising convenience, while being non-intrusive.  Challenge: Design a household-level agent that empowers users to participate in demand flexibility while safeguarding comfort, convenience, and trust.
 
 **GridSense** is an agentic demand-response marketplace for residential and small-commercial energy users.  
-Built on the open **Beckn-ONIX** protocol and powered by Google Cloud’s **Agent Development Kit(ADK)**, GridSense enables households to discover, bid, and automate flexible load adjustments—such as HVAC, EV charging, and water heating—in response to dynamic grid signals.
+Built on the open **Beckn** protocol and powered by Google Cloud’s **Agent Development Kit(ADK)**, GridSense enables households to discover, bid, and automate flexible load adjustments—such as HVAC, EV charging, and water heating—in response to dynamic grid signals.
 
 By coordinating AI agents across devices, GridSense enhances grid stability, unlocks revenue streams for participants, and accelerates decarbonization.
 
