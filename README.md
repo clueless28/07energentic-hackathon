@@ -128,6 +128,20 @@ gcloud run deploy "${SERVICE_NAME}" \
     - **part2** - https://www.loom.com/share/09e0c038fb724b2a95cc9e2447082ba9?sid=572186f8-3b19-436b-bbe9-dd958c5a093e
     - **part3** - https://www.loom.com/share/d22ce31bcfaa41ea82e88c7da50bc2d5?sid=11591e86-7e1a-45c5-b951-4cbebb3fa124
 
+## Challenges & Learnings:
+- Integrating Beckn APIs (BAP/BPP) and Google ADK with our system required extensive adaptation of energy-specific semantics
+- Designing autonomous agents that communicate reliably and securely using the Beckn Protocol required a deep understanding of the ONDC-style open ecosystem and agent contracts.
+- Beckn’s open architecture fosters a plug-and-play ecosystem across energy, commerce, and devices—making decentralization practical for demand-response.
+- Building for interoperability from day one (e.g., using Supabase, open APIs, and schema-first design) made it easier to scale, extend, and debug complex agent interactions.
+
+
+##  Useful Resources
+- https://google.github.io/adk-docs/
+- https://becknprotocol.io/
+- https://modelcontextprotocol.io/introduction
+- https://google.github.io/A2A/
+- https://cloud.google.com/generative-ai-studio?hl=en
+- 
 ## 📜 License
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
