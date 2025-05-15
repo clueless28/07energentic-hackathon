@@ -119,7 +119,14 @@ gcloud run deploy "${SERVICE_NAME}" \
   --min-instances=1
 
 ```
----
+## Demo Video Link
+
+- **Deployed Endpoint** - https://gridwave-harmony-ai.vercel.app
+- **Mcp server** - https://mcp-tool-server-603141740756.us-central1.run.app/sse
+- **Video Demonstration** -
+    - **part1** - https://www.loom.com/share/3977ef0088f2495e8c70fca6e0324e47?sid=0a7e6758-41e6-4ab2-9f51-9d7c33ce3b87
+    - **part2** - https://www.loom.com/share/09e0c038fb724b2a95cc9e2447082ba9?sid=572186f8-3b19-436b-bbe9-dd958c5a093e
+    - **part3** - https://www.loom.com/share/d22ce31bcfaa41ea82e88c7da50bc2d5?sid=11591e86-7e1a-45c5-b951-4cbebb3fa124
 
 ## 📜 License
 
