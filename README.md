@@ -12,7 +12,7 @@ By coordinating AI agents across devices, GridSense enhances grid stability, unl
 
 ## 🧭 GridSense Architecture
 At a high level, we have:
-
+ 
 1. **Device Layer:** Agentic software wrappers on each flexible appliance (HVAC, EV charger, water heater)
 
 2. **Household Agent Layer:** A centralized, user‑personalized “home agent” that aggregates device agents, provides user recommendations, and manages consented control flows
