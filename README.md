@@ -10,6 +10,9 @@ Built on the open **Beckn-ONIX** protocol and powered by Google Cloud’s **Agen
 
 By coordinating AI agents across devices, GridSense enhances grid stability, unlocks revenue streams for participants, and accelerates decarbonization.
 
+## 🧭 GridSense Architecture
+
+![GridSense Architecture](assets/assets.png)
 ---
 
 ## 🔧 Challenges Addressed
